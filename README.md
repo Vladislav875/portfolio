@@ -15,8 +15,10 @@
 >### **Стек:** Python, SQLLite3, щепотка любви
 >### **Срок выполнения**: ~1.5 месяца с учетом тестирования
 >## Фотокарточки:
->![Каталог](https://user-images.githubusercontent.com/32748041/170841146-34034e4c-19c1-48d1-9eed-69f20f9f4697.png)
->![Карточка товара](https://user-images.githubusercontent.com/32748041/170841214-f484a4b5-843b-49ae-9f1d-c3325a9c7400.png)
+<!-- >![Каталог](https://user-images.githubusercontent.com/32748041/170841146-34034e4c-19c1-48d1-9eed-69f20f9f4697.png) -->
+<!-- >![Карточка товара](https://user-images.githubusercontent.com/32748041/170841214-f484a4b5-843b-49ae-9f1d-c3325a9c7400.png) -->
+![hookah](https://user-images.githubusercontent.com/32748041/177039578-4fd34822-20f6-42c6-8caa-9e6f78e4c915.png)
+
 
 ____
 
@@ -44,5 +46,7 @@ ____
 >### **Стек:** Python, Google Spreadsheet, Закрытый API KazanExpress
 >### **Срок выполнения**: 1 неделя
 >## Фотокарточки:
->![KA Analytic](https://user-images.githubusercontent.com/32748041/174496375-350ad608-e243-4996-ac04-5c442e6c514e.png)
+<!-- >![KA Analytic](https://user-images.githubusercontent.com/32748041/174496375-350ad608-e243-4996-ac04-5c442e6c514e.png) -->
+![KA Analytic](https://user-images.githubusercontent.com/32748041/177039587-1389f9a7-13f8-48ca-a3ed-dd30da1c3ee7.png)
+
 ____
